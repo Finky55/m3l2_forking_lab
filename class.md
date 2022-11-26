@@ -1,3 +1,3 @@
-Josie Version Control
-Missouri
+<!-- Josie Version Control -->
+<!-- Missouri -->
 
